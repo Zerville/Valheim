@@ -1,0 +1,9 @@
+{
+    "name": "LeaveMyBaseAlone",
+    "version_number": "1.1.1",
+    "website_url": "https://www.hexxen.studio",
+    "description": "Sets structure HP, and npc base aggro to avoid griefing!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.602"
+  ]
+}

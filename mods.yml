@@ -1,0 +1,277 @@
+- manifestVersion: 1
+  name: Masa-BetterUI
+  authorName: Masa
+  websiteUrl: https://valheim.thunderstore.io/package/Masa/BetterUI/
+  displayName: BetterUI
+  description: Adds minor edits to the UI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 2
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Masa-BetterUI\1.4.2\icon.png
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 800
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\denikson-BepInExPack_Valheim\5.4.800\icon.png
+- manifestVersion: 1
+  name: abearcodes-CraftingWithContainers
+  authorName: abearcodes
+  websiteUrl: https://valheim.thunderstore.io/package/abearcodes/CraftingWithContainers/
+  displayName: CraftingWithContainers
+  description: Allows crafting by using resources in nearby chests
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\abearcodes-CraftingWithContainers\1.0.7\icon.png
+- manifestVersion: 1
+  name: Xenofell-Skillful
+  authorName: Xenofell
+  websiteUrl: https://valheim.thunderstore.io/package/Xenofell/Skillful/
+  displayName: Skillful
+  description: Skillful adds various useful bonuses and utilities to existing
+    skills, making for a deeper sense of character progression.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Xenofell-Skillful\0.3.0\icon.png
+- manifestVersion: 1
+  name: Hexxen-LeaveMyBaseAlone
+  authorName: Hexxen
+  websiteUrl: https://valheim.thunderstore.io/package/Hexxen/LeaveMyBaseAlone/
+  displayName: LeaveMyBaseAlone
+  description: Sets structure HP, and npc base aggro to avoid griefing!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.602
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Hexxen-LeaveMyBaseAlone\1.1.1\icon.png
+- manifestVersion: 1
+  name: ASharpPen-Sell_That
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Sell_That/
+  displayName: Sell_That
+  description: Modify Haldors available wares.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ASharpPen-Sell_That\1.1.0\icon.png
+- manifestVersion: 1
+  name: sweetgiorni-AnyPortal
+  authorName: sweetgiorni
+  websiteUrl: https://valheim.thunderstore.io/package/sweetgiorni/AnyPortal/
+  displayName: AnyPortal
+  description: Overhauls the portal pairing system by allowing you to select and
+    travel to any existing portal, regardless of tag.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\sweetgiorni-AnyPortal\1.0.4\icon.png
+- manifestVersion: 1
+  name: RandyKnapp-EquipmentAndQuickSlots
+  authorName: RandyKnapp
+  websiteUrl: https://valheim.thunderstore.io/package/RandyKnapp/EquipmentAndQuickSlots/
+  displayName: EquipmentAndQuickSlots
+  description: Give equipped items their own dedicated inventory slots, plus three
+    more hotkeyable quick slots.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\RandyKnapp-EquipmentAndQuickSlots\1.0.5\icon.png
+- manifestVersion: 1
+  name: Rolo-ExploreTogether
+  authorName: Rolo
+  websiteUrl: https://valheim.thunderstore.io/package/Rolo/ExploreTogether/
+  displayName: ExploreTogether
+  description: A collection of map and ping tweaks to improve cooperative play
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.602
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Rolo-ExploreTogether\1.1.2\icon.png
+- manifestVersion: 1
+  name: mtnewton-Gravekeeper
+  authorName: mtnewton
+  websiteUrl: https://valheim.thunderstore.io/package/mtnewton/Gravekeeper/
+  displayName: Gravekeeper
+  description: Configure to choose what is keep on death. Creates graves for
+    larger inventories.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\mtnewton-Gravekeeper\2.1.0\icon.png
+- manifestVersion: 1
+  name: ASharpPen-Drop_That
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Drop_That/
+  displayName: Drop_That
+  description: Tool for configuring mob loot tables.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 2
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ASharpPen-Drop_That\1.3.2\icon.png
+- manifestVersion: 1
+  name: L41rx-ValheimFaveServers
+  authorName: L41rx
+  websiteUrl: https://valheim.thunderstore.io/package/L41rx/ValheimFaveServers/
+  displayName: ValheimFaveServers
+  description: Bepinex framework mod that gives you a config file to save hosts
+    and passwords for servers and loads them into the in-game server list, so
+    you dont need to copy paste the IP or enter the password everytime
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\L41rx-ValheimFaveServers\1.0.0\icon.png
+- manifestVersion: 1
+  name: castix-NoDeathPenalty
+  authorName: castix
+  websiteUrl: https://valheim.thunderstore.io/package/castix/NoDeathPenalty/
+  displayName: NoDeathPenalty
+  description: No skill progress lost and optionally keep food on death
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\cache\castix-NoDeathPenalty\1.0.0\icon.png

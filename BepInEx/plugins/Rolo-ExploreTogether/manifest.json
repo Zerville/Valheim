@@ -1,0 +1,9 @@
+{
+    "name": "ExploreTogether",
+    "version_number": "1.1.2",
+    "website_url": "https://github.com/rolopogo/ValheimMods",
+    "description": "A collection of map and ping tweaks to improve cooperative play",
+    "dependencies": [ 
+		"denikson-BepInExPack_Valheim-5.4.602"
+    ]
+}

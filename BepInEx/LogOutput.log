@@ -1,0 +1,232 @@
+﻿[Message:   BepInEx] BepInEx 5.4.8.0 - valheim
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] Loading [Drop That! 1.3.2]
+[Info   :Drop That!] Loading configurations...
+[Info   : Unity Log] [Drop That!]: Loading general configuration from C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :Drop That!] Finished loading configurations
+[Info   :   BepInEx] Loading [Sell That! 1.1.0]
+[Info   :Sell That!] Loading configurations...
+[Info   :Sell That!] Configurations loaded.
+[Info   :   BepInEx] Loading [NoDeathPenalty 1.0.0]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.4]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Loading key enterAdvancedBuildingMode
+[Info   : Unity Log]  Loading key exitAdvancedBuildingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Loading key enterAdvancedEditingMode
+[Info   : Unity Log]  Loading key resetAdvancedEditingMode
+[Info   : Unity Log]  Loading key abortAndExitAdvancedEditingMode
+[Info   : Unity Log]  Loading key confirmPlacementOfAdvancedEditingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fireplace
+[Info   : Unity Log]  Loading key onlyTorches
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key dataRate
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Loading key cameraMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraBoatMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraFOV
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Loading key wagonExtraMassFromItems
+[Info   : Unity Log]  Loading key wagonBaseMass
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.4] is up to date.
+[Info   :   BepInEx] Loading [Crafting with Containers 1.0.7]
+[Info   :   BepInEx] Loading [LeaveMyBaseAlone 1.1.1]
+[Info   :LeaveMyBaseAlone] Leave My Base ALONE: waiting for world to load
+[Info   :   BepInEx] Loading [ExploreTogether 1.1.0.0]
+[Info   :   BepInEx] Loading [BetterUI 1.4.2]
+[Info   :   BepInEx] Loading [ValheimFaveServers 1.0.0]
+[Info   :ValheimFaveServers] Loaded server from config with data [key: cc name: GloryHole host: 31.3.155.247 ip: ::ffff:31.3.155.247]
+[Info   :   BepInEx] Loading [Gravekeeper 2.1.0]
+[Info   :Gravekeeper] Gravekeeper loaded.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.0.0]
+[Info   :   BepInEx] Loading [AnyPortal 1.0.4]
+[Info   : Unity Log] AnyPortal loaded succesfully.
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 1.0.4]
+[Info   :   BepInEx] Loading [Skillful 0.3]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 03/06/2021 17:01:07: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/06/2021 17:01:18: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+
+[Info   : Unity Log] 03/06/2021 17:01:18: Using mountain distance: 1000
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/06/2021 17:01:18: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/06/2021 17:01:18: Using environment steamid 892970
+
+[Info   : Unity Log] 03/06/2021 17:01:18: Using steam APPID:892970
+
+[Info   : Unity Log] 03/06/2021 17:01:18: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 03/06/2021 17:01:18: Steam initialized, persona:MrStoneface
+
+[Warning: Unity Log] 03/06/2021 17:01:18: Missing audio clip in music respawn
+
+[Info   : Unity Log] 03/06/2021 17:01:18: Checking for installed DLCs
+
+[Info   : Unity Log] 03/06/2021 17:01:18: DLC:beta installed:False
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/06/2021 17:01:19: Loaded localization English
+
+[Info   : Unity Log] 03/06/2021 17:01:19: Loaded localization English
+
+[Info   : Unity Log] 03/06/2021 17:01:19: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+
+[Info   : Unity Log] 03/06/2021 17:01:19: ARG 1 --doorstop-enable
+
+[Info   : Unity Log] 03/06/2021 17:01:19: ARG 2 true
+
+[Info   : Unity Log] 03/06/2021 17:01:19: ARG 3 --doorstop-target
+
+[Info   : Unity Log] 03/06/2021 17:01:19: ARG 4 C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Valheim\BepInEx\core\BepInEx.Preloader.dll
+
+[Info   : Unity Log] 03/06/2021 17:01:22: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/06/2021 17:01:42: Steam manager on destroy
+

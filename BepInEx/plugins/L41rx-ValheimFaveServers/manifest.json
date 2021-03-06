@@ -1,0 +1,9 @@
+{
+	"name": "ValheimFaveServers",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/L41rx/ValheimFaveServers",
+	"description": "Bepinex framework mod that gives you a config file to save hosts and passwords for servers and loads them into the in-game server list, so you dont need to copy paste the IP or enter the password everytime",
+	"dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.701"
+    ]
+}
